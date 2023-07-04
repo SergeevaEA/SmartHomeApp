@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755417671019",
+    "project_id": "smarthomeapp-727e3",
+    "storage_bucket": "smarthomeapp-727e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755417671019:android:75949e99f39ff9549a582e",
+        "android_client_info": {
+          "package_name": "ru.mirea.sergeevaea.smarthomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755417671019-tnr9echbs556nok0o03pf30s0hogr1qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMXucWYw0U_IM7JW4n-kiStoptNU1l_MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755417671019-tnr9echbs556nok0o03pf30s0hogr1qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
